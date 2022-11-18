@@ -1,2 +1,4 @@
 Edson Alejandro Rodriguez Flores
 Carrera:Intel Cucsur
+
+En términos generales, una base de datos es un conjunto de datos estructurados que pertenecen a un mismo contexto y, en cuanto a su función, se utiliza para
